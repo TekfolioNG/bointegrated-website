@@ -4,20 +4,36 @@ definePageMeta({
 });
 
 useHead({
-  title: 'Vera Verde | Ignite a sustainable future',
+  title: 'BOT Integrated Services | One Platform, Many Solutions',
   meta: [
-    { property: 'og:title', content: 'VeraVerde | Eco-Smart Agriculture & Clean Energy Solutions' },
-    { property: 'og:description', content: 'Driving climate-smart farming and sustainable biofuels across Africa. VeraVerde connects innovation with impact in agriculture and renewable energy.' },
-    { property: 'og:image', content: '/veraverde-og.jpg' },
+    {
+      property: 'og:title',
+      content: 'BOT Integrated Services | Travel, Real Estate, Rentals & Energy'
+    },
+    {
+      property: 'og:description',
+      content: 'Your one-stop partner for travel bookings, real estate, car rentals, and oil & gas solutions. Reliable, affordable, and customer-focused services in and out of Lagos.'
+    },
+    { property: 'og:image', content: '/botintegrated-og.jpg' },
     { property: 'og:image:width', content: '1200' },
     { property: 'og:image:height', content: '630' },
-    { property: 'og:image:alt', content: 'VeraVerde - Climate-Smart Agriculture & Clean Energy' },
+    {
+      property: 'og:image:alt',
+      content: 'BOT Integrated Services - Travel, Real Estate, Rentals & Energy'
+    },
     { name: 'twitter:card', content: 'summary_large_image' },
-    { name: 'twitter:title', content: 'VeraVerde | Eco-Smart Agriculture & Clean Energy Solutions' },
-    { name: 'twitter:description', content: 'Driving climate-smart farming and sustainable biofuels across Africa.' },
-    { name: 'twitter:image', content: '/veraverde-og.jpg' }
+    {
+      name: 'twitter:title',
+      content: 'BOT Integrated Services | Travel, Real Estate, Rentals & Energy'
+    },
+    {
+      name: 'twitter:description',
+      content: 'Trusted services for travel, property, rentals, and energy solutions. Fast, safe, and reliable support across Nigeria.'
+    },
+    { name: 'twitter:image', content: '/botintegrated-og.jpg' }
   ]
 });
+
 
 </script>
 
