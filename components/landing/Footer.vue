@@ -159,7 +159,7 @@
 
 
           <div class="order-3 text-gray-400 text-sm text-center md:text-right">
-            Website by <NuxtLink to="https://tekfol.io" target="_blank"
+            Website by <NuxtLink to="https://tekfolio.ng" target="_blank"
               class="text-gray-300 hover:text-[#D2691E] transition-colors">Tekfolio Ltd</NuxtLink>
           </div>
         </div>
