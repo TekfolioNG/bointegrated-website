@@ -82,6 +82,11 @@
               </NuxtLink>
             </li>
             <li>
+              <NuxtLink to="/legal" class="text-gray-300 hover:text-white transition-colors">
+                Legal Services
+              </NuxtLink>
+            </li>
+            <li>
               <NuxtLink to="/oil-gas" class="text-gray-300 hover:text-white transition-colors">
                 LPG Supply
               </NuxtLink>
@@ -106,7 +111,7 @@
               </div>
               <div class="text-gray-300 text-sm">
                 <strong class="block text-white mb-1">Office Address:</strong>
-                32 Owulade Street Irawo Bus Stop, Bako Estate, along Ikorodu Road Lagos
+                5C Mobolaji Bank Anthony Way, Maryland, Lagos
               </div>
             </li>
             <li class="flex flex-col md:flex-row items-center md:items-start">

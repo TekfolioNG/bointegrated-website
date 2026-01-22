@@ -6,6 +6,7 @@ const menuitems = [
   { title: "TRAVEL", path: "/travel" },
   { title: "CAR RENTALS", path: "/car-rentals" },
   { title: "PROPERTIES", path: "/properties" },
+  { title: "LEGAL SERVICES", path: "/legal" },
   { title: "OIL & GAS", path: "/oil-gas" },
 ];
 
@@ -40,7 +41,8 @@ onUnmounted(() => {
           <nav class="absolute left-1/2 transform -translate-x-1/2">
             <ul class="flex space-x-6 lg:space-x-8">
               <li v-for="item in menuitems" :key="item.title">
-                <NuxtLink :to="item.path" class="text-sm lg:text-base transition-colors duration-200 font-medium"
+                <NuxtLink :to="item.path"
+                  class="text-sm lg:text-base transition-colors duration-200 font-medium whitespace-nowrap"
                   :class="isScrolled ? 'text-gray-900 hover:text-[#D2691E]' : 'text-white hover:text-[#D2691E]'">
                   {{ item.title }}
                 </NuxtLink>
