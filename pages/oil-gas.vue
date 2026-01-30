@@ -86,7 +86,7 @@ useHead({
                             <h2 class="text-3xl font-bold text-gray-900 dark:text-white">
                                 Vehicular Documentation & Registration
                             </h2>
-                            <p class="text-lg text-gray-600 dark:text-gray-300">
+                            <p class="text-lg text-gray-900 dark:text-gray-300">
                                 We help with new vehicle registration, license renewals, plate numbers, change of
                                 ownership,
                                 and other essential documentation. Processes are handled efficiently and in line with
@@ -121,10 +121,19 @@ useHead({
                             <h2 class="text-3xl font-bold text-gray-900 dark:text-white">
                                 Oil & Gas Consultancy
                             </h2>
-                            <p class="text-lg text-gray-600 dark:text-gray-300">
-                                For businesses in the energy space, we offer advisory support on sourcing, logistics,
-                                safety standards, and regulatory compliance. We also connect clients with reliable
-                                suppliers for LPG and other petroleum products.
+                            <p class="text-lg text-gray-900 dark:text-gray-300">
+                                We provide advisory services tailored to downstream energy operations, supporting
+                                businesses across fuel distribution, storage, retail, and compliance frameworks.
+
+                            </p>
+                            <p class="text-lg text-gray-900 dark:text-gray-300">
+                                Our
+                                expertise covers operational efficiency, safety systems, regulatory alignment, and
+                                logistics optimization within regulated downstream environments.
+                            </p>
+                            <p class="text-lg text-gray-900 dark:text-gray-300">
+                                We help clients strengthen processes, manage risk, and operate sustainably in line with
+                                industry and government standards.
                             </p>
                             <NuxtLink to="/contact"
                                 class="inline-flex items-center px-6 py-3 bg-gradient-to-r from-[#D2691E] to-amber-600 text-white font-semibold rounded-lg hover:shadow-lg transition-all duration-300">

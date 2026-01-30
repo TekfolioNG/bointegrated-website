@@ -48,7 +48,7 @@
                                     SDG & AU Agenda 2063 Targets
                                 </h2>
                             </div>
-                            <p class="text-lg text-gray-600 leading-relaxed">
+                            <p class="text-lg text-gray-900 leading-relaxed">
                                 Our work directly supports these United Nations Sustainable Development Goals and
                                 African Union's Agenda 2063
                             </p>

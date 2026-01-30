@@ -221,7 +221,7 @@ useHead({
     { name: 'twitter:image', content: '/contact-og.jpg' }
   ],
   link: [
-    { rel: 'canonical', href: 'https://yourwebsite.com/contact' }
+    { rel: 'canonical', href: 'https://botintegratedservices.com/contact' }
   ],
 });
 </script>
@@ -316,11 +316,11 @@ useHead({
               </svg>
             </div>
             <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-3">Email Us</h3>
-            <p class="text-gray-600 dark:text-gray-400 mb-4">Send us an email and we'll respond within 24 hours</p>
+            <p class="text-gray-900 dark:text-gray-400 mb-4">Send us an email and we'll respond within 24 hours</p>
             <a href="mailto:contact@example.com"
               class="text-[#D2691E] font-semibold hover:text-amber-600 transition-colors">
-              info@botintegrated.com
-              support@botintegrated.com
+              botintegratedservices@gmail.com
+              info@botintegratedservices.com
             </a>
           </div>
 
@@ -336,7 +336,7 @@ useHead({
               </svg>
             </div>
             <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-3">Call Us</h3>
-            <p class="text-gray-600 dark:text-gray-400 mb-4">Available Monday to Friday, 9AM-6PM</p>
+            <p class="text-gray-900 dark:text-gray-400 mb-4">Available Monday to Friday, 9AM-6PM</p>
             <a href="tel:+1234567890" class="text-[#D2691E] font-semibold hover:text-amber-600 transition-colors">
               +234 805 524 8406
               <br>+234 802 200 7759</br>
@@ -355,10 +355,9 @@ useHead({
               </svg>
             </div>
             <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-3">Visit Us</h3>
-            <p class="text-gray-600 dark:text-gray-400 mb-4">Come say hello at our office headquarters</p>
+            <p class="text-gray-900 dark:text-gray-400 mb-4">Come say hello at our office headquarters</p>
             <address class="text-[#D2691E] font-semibold not-italic">
-              32 Owulade Street Irawo Bus Stop, Bako Estate,<br>
-              along Ikorodu Road Lagos
+              5C Mobolaji Bank Anthony Way, Maryland, Lagos
             </address>
           </div>
 
@@ -376,7 +375,7 @@ useHead({
             <h2 class="text-4xl font-bold text-gray-900 dark:text-white mb-6">
               Send us a Message
             </h2>
-            <p class="text-xl text-gray-600 dark:text-gray-300 max-w-2xl mx-auto">
+            <p class="text-xl text-gray-900 dark:text-gray-300 max-w-2xl mx-auto">
               Have a question or want to discuss a project? Fill out the form below and we'll get back to you as soon as
               possible.
             </p>
@@ -556,7 +555,7 @@ useHead({
             <h2 class="text-4xl font-bold text-gray-900 dark:text-white mb-6">
               Frequently Asked Questions
             </h2>
-            <p class="text-xl text-gray-600 dark:text-gray-300">
+            <p class="text-xl text-gray-900 dark:text-gray-300">
               Quick answers to common questions about our services
             </p>
           </div>

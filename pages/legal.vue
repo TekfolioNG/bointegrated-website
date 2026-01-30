@@ -204,7 +204,7 @@ useHead({
                                 </svg>
                             </div>
                             <h3 class="text-lg font-semibold text-gray-900 dark:text-white mb-2">Expert Legal Team</h3>
-                            <p class="text-gray-600 dark:text-gray-300 text-sm">Qualified lawyers with extensive
+                            <p class="text-gray-900 dark:text-gray-300 text-sm">Qualified lawyers with extensive
                                 experience across multiple practice areas</p>
                         </div>
 
@@ -223,7 +223,7 @@ useHead({
                             </div>
                             <h3 class="text-lg font-semibold text-gray-900 dark:text-white mb-2">Transparent Pricing
                             </h3>
-                            <p class="text-gray-600 dark:text-gray-300 text-sm">Clear fee structures with no hidden
+                            <p class="text-gray-900 dark:text-gray-300 text-sm">Clear fee structures with no hidden
                                 charges for predictable legal costs</p>
                         </div>
 
@@ -239,7 +239,7 @@ useHead({
                             </div>
                             <h3 class="text-lg font-semibold text-gray-900 dark:text-white mb-2">Comprehensive Services
                             </h3>
-                            <p class="text-gray-600 dark:text-gray-300 text-sm">Full spectrum of legal services for
+                            <p class="text-gray-900 dark:text-gray-300 text-sm">Full spectrum of legal services for
                                 personal, business, and property matters</p>
                         </div>
 
@@ -254,7 +254,7 @@ useHead({
                                 </svg>
                             </div>
                             <h3 class="text-lg font-semibold text-gray-900 dark:text-white mb-2">Prompt Response</h3>
-                            <p class="text-gray-600 dark:text-gray-300 text-sm">Quick turnaround on consultations,
+                            <p class="text-gray-900 dark:text-gray-300 text-sm">Quick turnaround on consultations,
                                 documentation, and case updates</p>
                         </div>
 
@@ -270,7 +270,7 @@ useHead({
                             </div>
                             <h3 class="text-lg font-semibold text-gray-900 dark:text-white mb-2">Client-Centered
                                 Approach</h3>
-                            <p class="text-gray-600 dark:text-gray-300 text-sm">Personalized attention with solutions
+                            <p class="text-gray-900 dark:text-gray-300 text-sm">Personalized attention with solutions
                                 tailored to your specific needs</p>
                         </div>
 
@@ -286,7 +286,7 @@ useHead({
                             </div>
                             <h3 class="text-lg font-semibold text-gray-900 dark:text-white mb-2">Confidentiality Assured
                             </h3>
-                            <p class="text-gray-600 dark:text-gray-300 text-sm">Strict confidentiality and data
+                            <p class="text-gray-900 dark:text-gray-300 text-sm">Strict confidentiality and data
                                 protection for all client information</p>
                         </div>
                     </div>

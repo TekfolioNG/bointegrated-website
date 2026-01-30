@@ -141,7 +141,7 @@
                                 </div>
                                 <div>
                                     <p class="text-2xl font-bold text-gray-900">Fast</p>
-                                    <p class="text-sm text-gray-600">Service Delivery</p>
+                                    <p class="text-sm text-gray-900">Service Delivery</p>
                                 </div>
                             </div>
                         </div>

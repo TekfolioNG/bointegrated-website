@@ -130,12 +130,12 @@
               </div>
               <div class="text-gray-300 text-sm">
                 <strong class="block text-white mb-1">E-mail:</strong>
-                <a href="mailto:info@botintegrated.com" class="hover:text-[#D2691E] transition-colors">
-                  info@botintegrated.com
+                <a href="mailto:info@botintegratedservices.com" class="hover:text-[#D2691E] transition-colors">
+                  botintegratedservices@gmail.com
                 </a>
                 <br>
                 <a href="mailto:support@botintegrated.com" class="hover:text-[#D2691E] transition-colors">
-                  support@botintegrated.com
+                  info@botintegratedservices.com
                 </a>
               </div>
             </li>

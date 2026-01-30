@@ -198,7 +198,7 @@ useHead({
                                 </svg>
                             </div>
                             <h3 class="text-lg font-semibold text-gray-900 dark:text-white mb-2">Safe & Secure</h3>
-                            <p class="text-gray-600 dark:text-gray-300 text-sm">Transportation for solo, couple, or
+                            <p class="text-gray-900 dark:text-gray-300 text-sm">Transportation for solo, couple, or
                                 group travel with top-notch safety standards</p>
                         </div>
 
@@ -216,7 +216,7 @@ useHead({
                                 </svg>
                             </div>
                             <h3 class="text-lg font-semibold text-gray-900 dark:text-white mb-2">Affordable Rates</h3>
-                            <p class="text-gray-600 dark:text-gray-300 text-sm">Competitive pricing with no hidden costs
+                            <p class="text-gray-900 dark:text-gray-300 text-sm">Competitive pricing with no hidden costs
                                 for transparent budgeting</p>
                         </div>
 
@@ -232,7 +232,7 @@ useHead({
                             </div>
                             <h3 class="text-lg font-semibold text-gray-900 dark:text-white mb-2">Various Vehicle Options
                             </h3>
-                            <p class="text-gray-600 dark:text-gray-300 text-sm">Sedans, hatchbacks, and spacious Siennas
+                            <p class="text-gray-900 dark:text-gray-300 text-sm">Sedans, hatchbacks, and spacious Siennas
                                 for different group sizes</p>
                         </div>
 
@@ -247,7 +247,7 @@ useHead({
                                 </svg>
                             </div>
                             <h3 class="text-lg font-semibold text-gray-900 dark:text-white mb-2">Fast Booking</h3>
-                            <p class="text-gray-600 dark:text-gray-300 text-sm">Quick reservations via phone, WhatsApp,
+                            <p class="text-gray-900 dark:text-gray-300 text-sm">Quick reservations via phone, WhatsApp,
                                 or email support</p>
                         </div>
 
@@ -263,7 +263,7 @@ useHead({
                             </div>
                             <h3 class="text-lg font-semibold text-gray-900 dark:text-white mb-2">Inspected & Sanitized
                             </h3>
-                            <p class="text-gray-600 dark:text-gray-300 text-sm">Vehicles thoroughly inspected and
+                            <p class="text-gray-900 dark:text-gray-300 text-sm">Vehicles thoroughly inspected and
                                 sanitized before every hire</p>
                         </div>
 
@@ -278,7 +278,7 @@ useHead({
                                 </svg>
                             </div>
                             <h3 class="text-lg font-semibold text-gray-900 dark:text-white mb-2">24/7 Support</h3>
-                            <p class="text-gray-600 dark:text-gray-300 text-sm">Round-the-clock customer service for all
+                            <p class="text-gray-900 dark:text-gray-300 text-sm">Round-the-clock customer service for all
                                 your rental needs</p>
                         </div>
                     </div>

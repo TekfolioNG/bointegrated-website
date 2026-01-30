@@ -24,7 +24,7 @@
           Welcome to <span class="text-[#D2691E]">BOT</span> Integrated Services
         </h2>
 
-        <div class="max-w-4xl mx-auto space-y-4 text-gray-600">
+        <div class="max-w-4xl mx-auto space-y-4 text-gray-900">
           <p class="text-lg md:text-xl leading-relaxed">
             We are a multi-sector service company offering efficient, customer-centered solutions across
             <span class="font-semibold text-gray-800">travel, real estate, road transport booking, and oil & gas
@@ -145,7 +145,7 @@
           <h3 class="text-2xl md:text-3xl font-bold text-gray-900 mb-4">
             Ready to Get Started?
           </h3>
-          <p class="text-gray-600 text-lg mb-8 max-w-2xl mx-auto">
+          <p class="text-gray-900 text-lg mb-8 max-w-2xl mx-auto">
             Need something done? Let's get it sorted fast. Our team is ready to provide you with fast, efficient,
             and professional service across all our sectors.
           </p>
